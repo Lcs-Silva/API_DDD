@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApi.Domain.Entity
+namespace WebApi.Domain.Entities
 {
     public abstract class BaseEntity
     {
